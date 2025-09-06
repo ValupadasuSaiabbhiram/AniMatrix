@@ -65,13 +65,13 @@ Here’s a preview of the website in action:
 
 
 ## Tech Stack
-HTML5 / CSS3 / JavaScript
+* HTML5 / CSS3 / JavaScript
 
-GSAP (GreenSock Animation Platform)
+* GSAP (GreenSock Animation Platform)
 
-Locomotive Scroll
+* Locomotive Scroll
 
-Canvas API
+* Canvas API
 
 ## License
 This project is licensed under the MIT License.
