@@ -51,13 +51,13 @@ We’re working hard to build something awesome here!
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/cyberfiction.git
+   git clone https://github.com/your-username/AniMatrix.git
 
 2. Navigate into the project folder:
 
     ```bash
     Copy code
-    cd cyberfiction
+    cd AniMatrix
     Open index.html in your browser or use Live Server in VS Code.
     ```
 3. Showcase
